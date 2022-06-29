@@ -11,3 +11,8 @@ The goal of the ADMMBO algorithm is to find the optima for a relatively expensiv
 Paper:
 https://www.jmlr.org/papers/volume20/18-227/18-227.pdf
 
+
+======================================================================================================================================================================
+Directions to use the code:
+ 
+
